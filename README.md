@@ -45,7 +45,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/www.linkedin.com/in/tawana-m-k-11209026a Vanity URL name"></a>
 <a href="mailto:tawananyashakaseke@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tawananyashakaseke@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
